@@ -1,2 +1,2 @@
 # Database-Mangement
-Database Management
+Command-line style database management tool for SQL
